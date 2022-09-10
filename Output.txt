@@ -1,0 +1,609 @@
+What we can learn, is to have frequent updates to our pandemic simulations, then the simulation that shuts down the pandemic the quickest, institute immediately!
+ or not a person is inside. Customers can also use this mirror to try on other sizes and colors, as well as receive tailored mix-and-match alternatives to complete the appearance.
+
+Van Heusen designed a storage space that includes a “Virtual Trial” mirror that allows customers to view how clothes might appear on them by scanning the item’s barcode and stepping in front of the mirror while virtual clothing is projected onto their reflection.
+
+In the same way that AI is revolutionizing retail fashion stores, AI is revolutionizing online purchasing and E-commerce. While 
+browsing or searching for fashion goods on e-commerce sites, AI suggests additional items that are similar to what you’re looking for based on your color preferences, budget, and other factors. It analyses your search history data and suggests more relevant stuff you should look at.
+
+Amazon has undoubtedly transformed the online shopping experience with its AI-powered product suggestion engine. Amazon is implementing an AI-enabled fashion designer algorithm that can create clothing by mimicking the design styles of several popular garments and applying them to a new garment. The Echo Look fashion assistant, which uses machine learning to deliver personalized recommendations, is Amazon’s other use case.
+
+AI in Visual Search — To Find the Products Using Camera
+
+AI-based visual search technology is now employed by E-commerce stores to comprehend the content and context of these photographs and produce a list of related results. You can capture an object using your camera and then search for it online. Retailers can use AI-enabled computer vision-based visual search technology to propose thematically or aesthetically relevant items to customers in a way that would be difficult to do with only a word query.
+
+Neiman Marcus, a high-end department store, employs artificial intelligence to make it easier for shoppers to locate things. The Snap. Find. Shop. the app allows users to photograph items they encounter while out and about, and then search Neiman Marcus’ inventory for the same or a comparable item.
+
+One of the most damaging businesses on the earth is the fashion industry. Artificial Intelligence can be used in conjunction with Machine Learning, Deep Learning, Natural Language Processing, Visual Recognition, and Data Analytics to reduce trend prediction errors and more precisely forecast patterns, leading to fewer garments being manufactured and subsequently underutilized.     
+
+The H&M Group is using “Amplified Intelligence,” which combines analytics and AI with human intelligence.
+
+Using artificially intelligent technologies, H&M is enhancing its ability to recognize trends and organize logistics, as well as minimizing the frequency of discounted deals and large amounts of unsold goods.
+
+Though intelligence per se is artificial, nevertheless is likely to have an earnest impact, both positive and negative:
+
+Apparel manufacture is a labor-intensive industry in the fashion industry. AI-enabled machines and robots can perfectly stitch fabrics while also detecting fabric flaws and providing quality assurance to ensure that the actual design hues will match the new colors.
+
+In nations like Bangladesh, where the garment industry accounts for 80% of the GDP, this will have a significant influence on the labor force in the long run. It is already feeling the heat from these specialized AI-based devices, thus jeopardizing the jobs of breadwinners.
+
+AI should not be viewed as a rival, but rather as a collaborator. The cost and ethics of AI are currently preventing us from progressing. We must be careful not to use technology to increase inequity or exacerbate social injustice. We also need to find a balance and integrate humanity into the machines we’re constructing in the future.
+
+“We are being monitored and classified by AI in portions of our lives that were not previously watched,” says Sophie Hackford, a futurist and keynote speaker. She wonders if we’ve built the “wrong” internet. We created it intending to monetize our viewers 
+in mind, rather than the dynamic knowledge-sharing area that Tim Berners-Lee envisioned at the start.” She believes that in the 
+future, we will be much more selective in how we obtain information, and that “bots” would be critical in meeting our requirements. As a result, the gains will come at the expense of our privacy.
+
+As numerous as AI’s advantages are, it is impossible to ignore the difficult issues it brings. With everything being data-driven, there is a pressing need to establish boundaries to build a shared ecosystem that benefits both businesses and the general public.
+
+Finding a wise balance between physical stores and online stores will continue to be a crucial issue in an industry where brick-and-mortar retail locations are still an important element of the sector’s approach to business.
+
+The usefulness of chatbots aimed at improving online and in-store product navigation shows significant promise for preserving customer attention and use in the near term. We expect consumers to become accustomed to these capabilities over time, and the field to become more competitive as AI becomes more broadly applied, as prominent brands set the tone with their usage of AI.      
+
+It’s too early to tell how these AI applications will affect earnings and cost savings because prominent fashion firms are still in the early stages of AI implementation. However, there will be a learning curve as corporations figure out how consumers react to these innovation efforts, which could have a direct influence on sales.
+The Financial Crisis of 2008 started as a crisis in the subprime mortgage market (i.e. in a market where lending of loans is done to people who may have difficulty in maintaining the repayment schedule or in simple terms, loans were given out to people without proper checks and low credit scores) which ultimately led onto a huge global collapse.
+
+The Financial Crisis of 2008 or Great Recession is considered the worst economic crisis since the Great Depression.
+
+In the year 1996, there was a dot-com boom (or otherwise known as the dot com bubble) in the United States, a period of massive 
+growth in the use of the internet because of which the stock market prices started increasing rapidly. However, around the year 
+2000, it dropped which led people and investors to withdraw their investments from the stock market rapidly. It led to the decline of the price of shares in stock markets and the interest rate plummeted to around 1% very quickly in a short span.
+
+Investors were now looking for a brighter option than investing in stock markets.
+
+Fig – Rise and fall of the Dot Com Bubble
+
+As interest rates went lower and lower, real estate prices started rising and the US Govt also encouraged people to buy houses and properties. The demand for the same started rising rapidly and investors now found a great option to invest in (i.e. in Real 
+Estate).
+
+During that same time, Investment Banks saw an opportunity, chimed in and started buying loans from Banks in bulk and clubbed multiple loans under a complex derivative called CDO (Collateralized Debt Obligations) and started providing it to these Investors after getting a credit rating of “AAA” (Very Safe Investment) from the Credit Rating Agencies. Investors naturally fell for it 
+and started buying these CDOs.
+
+So now, the risk factor of these loans got transferred from the Banks to the Investment Banks and then again to the CDO Investors.
+
+With the high buying demand of CDOs, Investment banks started demanding or pressurizing Banks to provide even more Loans so that they can provide more CDOs to the Investors. However, Banks had already provided loans to people with good credit history and regular income people. But in the hope of getting even more credit from Investment Banks, these same banks then started giving out subprime housing loans to people with low credit scores.
+
+Approximately $174Bn worth of loans were given out during the period 2000-2007 and most of them were clubbed as CDOs with a “AAA” rating from the Credit Rating Agencies. Approximately 70% of these CDO’s were marked with a “AAA” rating.
+
+Investment Banks and Credit Rating Agencies were now enjoying large profits during this time. Moody’s (a credit rating agency) profits increased 4x times during that period (2000-2007).
+
+Looking at the huge profits being made by the Investment Banks and Credit Rating Agencies, Insurance companies (like AIG) now started giving out insurance on these CDOs to the investors and they called it CDS (Credit Default Swap). AIG believed that since 
+the CDOs were rated as “AAA” (Very Safe Investment), the failure chances of these CDOs were very minimal. They misjudged or were unaware of the fact that some of the loans that were clubbed under these CDOs were Sub Prime loans.
+
+Now CDO Investors started buying out CDS from AIG and other companies to safeguard and protect them from any losses. AIG then started making huge profits because of the premiums that the investors had to pay. But they never realized the outcome if by any chance the CDOs fail at some point in time. Thus, the risk factor again got transferred from the CDO investors to the Insurance Companies.
+
+Fig – Flow Diagram showing how the Risk Factors got transferred
+
+Coming to the loan borrowers now, Sub Prime Borrowers from banks were unaware of the fact of Adjustable Rate Loans (interest rate of these loans keeps changing) and thus had to pay lower interests at the start but more interest rates later on.
+
+The borrowers started defaulting on these loans when the interest rates increased dramatically around 2007 and thus banks had to then resell those houses to make up for the loans defaulted. Added to the problem was the fact that borrowers were not spending any amount of money from their pockets while taking loans and banks were providing the full amount of loans. Almost 50% of the 
+borrowers did not pay anything from their own pocket and bought the home only using the housing loan.
+
+This led to a huge increase in the defaulters of borrowers and ultimately banks had to auction houses to gain credit back. With 
+the high-interest rates and no one to buy the auctioned houses, this ultimately caused a chain reaction and banks were no longer receiving credit. The prices of Real Estate started falling drastically and people with good credit scores who had earlier taken housing loans also started defaulting because the price of their houses/homes fell below the loan amount that they had taken earlier. Banks stopped receiving money and also because of this chain reaction, the value of CDOs ultimately came down to 0.     
+
+Some Investors went for huge losses and few Investment companies went bankrupt (ex – Lehman Brothers). Moreover, insurance companies had to pay back those investors who had taken insurance. As a result, some of the insurance companies also went bankrupt. AIG too almost lost about $100Bn in paying back the investors who had earlier insured their CDOs. However, the US Govt. finally decided to bail out AIG in order to save them from going bankrupt.
+
+CDOs and CDSs were not regulated during that time by the Federal Reserve and thus this whole situation ultimately led to credit 
+crunch (became very difficult to get loans) and the whole economy of the US underwent a crisis that led to a global impact all around the world. Unemployment increased manifold and many new businesses had to shut down. Global trades all around the world also saw a crisis and finally, Global Recession hit the World.
+
+Causes of the Crisis –
+• Improper screening of loan borrowers resulting in subprime loan borrowers which included even borrowers with no stable income.• Credit rating agencies rated all the CDOs highly and investors were purchasing without proper monitoring. the same goes for Insurance companies.
+• Lax regulation of CDOs and CDS’ by federal reserve banks.
+• The large size of interbank lending that compounded the crisis
+• The unemployment rate increased all over the US and the EU.
+
+Ways to Avoid Such Crisis in Future –
+• Regulations to prevent banks from growing too big and preventing systemic risks (addressing ‘Too Big to Fail’ problem)        
+• Borrowers must be made aware of rate adjustable loans
+• Credit rating agencies should not rate the CDOs without proper risk assessment.
+• Partnership with Fintech companies to develop robust alternative credit scoring models for people with less credit history.   
+• Strict regulation on CDOs and CDS’ by Federal Banks
+Gender diversity is an equal representation of all genders in workplaces. One of the most important sectors where there is under-representation of gender diversity is the technological industry. Gender diversity means you have an equal opportunity which is not limited by gender. But, the true reality is gender diversity is a far outcry in the world.
+
+Gender diversity isn’t a new topic but an old and global phenomenon and technology industry is not a stranger to it. Women are often underrepresented in the technology sector. To understand the gap, let’s look at some statistics.
+• The percentage of women employed across all job sectors in the US has grown to be 47%.
+• Out of 47%. 34% belong to the top 5 technology companies (Amazon, Apple, Facebook, Google, and Microsoft).
+• Women software engineer hires have only increased 2% over the last 20 years
+• 50% of women said they have experienced gender discrimination at work.
+• Only 37% of tech startups have at least one woman on the board of directors.
+• The ratio of men to women in engineering is 5:1.
+• 25.5% of Google’s leaders on a global scale are women.
+• Even in the tech conference organizations, there were fewer female keynote speakers than male speakers.
+• Eight percent to 17 percent of gay and transgender workers report being passed over for a job or fired because of their sexual orientation or gender identity.
+• Globally, women only earn 77 cents to the dollar when compared to men.
+• According to a McKinsey Global Institute report, if women were to play an identical role in labor markets to that of men, as much as $28 trillion, or 26%, could be added to the global annual GDP by 2025.
+• According to UNESCO, over 2.7 billion women are legally restricted from having the same choice of jobs as men. And women’s labor force participation rate is 48.5 % compared to a rate of 75% for men.
+
+After looking at these staggering numbers, we see how biased gender diversity is even in the technological sector.
+
+Need of the hour
+
+With rapid industrialization and education about the importance of rights, gender diversity is very important in today’s world. 
+Gender equality represents a society that has lesser violence and provides a safer world for everyone. It is also directly proportional to sustainable development and ensures human rights to everyone. As today’s markets are increasing along with customers’ preferences, to understand customer profiles and build products we need gender diversity in our organizations. Equal representation helps in a better decision-making process for a positive impact.
+
+Men and Women invest back into their families and having gender equality and diversity helps build values into families and households. Empowering individuals not only help themselves but also the economy of the nations. Gender equality and diversity should be built into organizations’ beliefs and values.
+
+Why is this happening?
+
+Perception: If we see the word “gender”, it is a socially constructed definition. And this definition changes as per different cultural norms. In a much broader term, our society is also not aware of the concept of binary and non-binary gender, which includes queer, Trans, and Intersex individuals as well. The socially acceptable thing is to have gender expressions as per our gender identity. So, when it comes to choosing their career, people tend to choose a job role that gives them higher social belongingness. E.g. We see more women(as compared to men) in nursing careers as it requires more feminine qualities.
+
+There are different versions of this perception: which we can see either in the society(in terms of socially assigned gender roles) or in the workplace(in the form of gender discrimination, stereotypical thinking, sexism, etc.). E.g. As per their assigned 
+roles in society, women are most likely to take care of their family and children, and this affects their income and career growth. The motherhood penalty is a term defined by sociologists which states about the inverse correlation between income level and the number of children, i.e. there is also an income difference between a mother and a non-mother employee. As per OECD data(2012), there is a 7% reduction in wages for women per child.
+
+Lack of economic opportunities: Even in the tech industry, women are paid less than men. As per ILO data(2019), on average women are paid 20% less than men worldwide.
+
+Even when it comes to promotion, men are preferred more. It is to be noted that the numbers are even worse when there is intersectionality involved. E.g., a transgender woman will be paid less than a white woman and so on. As per the National Centre for Transgender equality, one out of two transgender people faces adverse effects: including 23% were denied a promotion, 44% were passed over for a particular job position and 26% are fired from their workplace just because they are transgender.
+
+We can improve this scenario from the perspective of different stakeholders who are involved.
+
+Creating Tech awareness from School level: As per the HDR report( 2017), no. of boys pursuing STEM program is 97% higher than girls. One way to improve this is to introduce more strong role models to advocate for this issue. Minority gender communities should be aware of the multiple job opportunities and career growth available in this field. These job roles are not even gender-specific anymore. For developing countries like India, STEM scholarship programs can be introduced from the secondary education level.
+
+Address Bias/Stereotypes: It is to be noted that perceptions, stereotypes, and biases are not just something we learn in school 
+but our upbringing also creates these, the things we watch, listen, and read daily. So, it also becomes the duty of the society 
+to create a more inclusive environment. E.g. A more privileged person should fight for the fundamental right of the less empowered or less privileged person in society.
+
+There should be active encouragement from parents, teachers, and educators for students in STEM programs regardless of their gender identity.
+
+To promote gender diversity in the workplace, companies need to focus on three things:
+
+Generally, there is a lot of unconscious bias and prejudices when hiring women, trans, intersex, and queer individuals. There needs to be a diversity and inclusivity team in the HR itself that addresses these issues. A blind recruitment drive can be conducted where there is no need to mention gender in any of the documents.
+
+Having structured questions during the interview might help to remove any unconscious biases.
+
+Diversity sensitivity training: Workplace policies need to create a company image that hires everyone irrespective of their gender identity and can even keep it optional in all the job formalities and documents.
+
+Conducting proper sensitivity training to employees is essential as they need to use correct pronoun/gender-neutral language.   
+
+Not just sensitivity training, strong workplace policies need to be in place which deal with any form of harassment or gender discrimination.
+
+To create accountability and transparency in their process, companies can also share diversity and inclusivity company data.    
+• Have a mentorship program in the workplace that advocates for women, trans, intersex, and non-binary individuals as leaders and encourages role models within this community.
+• Need to promote diversity in the workplace via proper workplace policies and legal guidelines(e.g. conducting mandatory sensitization training for all employees or framing zero-tolerance policies.)
+
+Including proper maternity leaves, child care facilities, and flexibility of working hours/remote working arrangements can be helpful for minority gender in keeping their work-life balance.
+
+Develop support programs for these communities who are joining after maternity leave. It might be in terms of psychiatric or mentorship support.
+
+Increase Pay parities: It can be done in the following ways:
+• Create flexibility in job roles so that women can move on to higher positions.
+• Build an inclusive workplace that supports pay parity— no salary difference based on gender for the same job roles.
+• Create a transparent performance review process and ensure that there are no unconscious biases during the recruitment process.
+• Doing a pay review within the organization to check how much pay difference exists before making framing policies.
+
+Lastly, there needs to be proper government policies in place which provide a constitutional or legal framework starting from the basic education level. It may begin from increasing the gross enrollment rates of all students in schools (irrespective of their gender identity) for developing countries( like India) to have proper compensation policies in the workplace(as similar to what states like California, New York has adopted) to ensure pay parity.
+The Covid-19 crisis and its fallout including recession, layoffs, and uneven economic pain-as well as recent protests over police brutality and demands for racial justice, have presented many of us with challenges that we’ve not encountered before. The high-stakes and unfamiliar nature of these situations have left many people feeling fearful of missteps. No one can reduce mistakes to zero, but you can learn to harness your drive to prevent them and channel it into better decision making. Use these tips to 
+become a more effective worrier.
+
+Don’t be afraid or ashamed of your fear.
+
+Our culture glorifies fearlessness. The traditional image of a leader is one who is smart, tough, and unafraid. But fear, like any emotion, has an evolutionary purpose and upside. Your concern about making mistakes is there to remind you that we’re in a challenging situation. A cautious leader has value. This is especially true in times like these. So don’t get caught up in ruminating: “I shouldn’t be so fearful.”
+
+Don’t be ashamed or afraid of your fear of making mistakes and don’t interpret it as evidence that you’re an indecisive leader, 
+or not bold, not visionary. If you have a natural tendency to be prevention-focused, channel it to be bold and visionary! (If you struggle to believe this, identify leaders who have done just that by figuring out how to prevent disasters.)
+
+Fear of mistakes can paralyze people. Emotional agility skills are an antidote to this paralysis. This process starts with labeling your thoughts and feelings, such as “I feel anxious I’m not going to be able to control my customers enough to keep my staff safe.” Stating your fears out loud helps diffuse them. It’s like turning the light on in a dark room. Next comes accepting reality. For example, “I understand that people will not always behave in ideal ways.” List off every truth you need to accept. Then comes acting your values. Let’s say one of your highest values is conscientiousness. How might that value apply in this situation? For example, it might involve making sure your employees all have masks that fit them well or feel comfortable airing any grievances they have. Identify your five most important values related to decision-making in a crisis. Then ask yourself how each 
+of those is relevant to the important choices you face.
+
+Repeat this process for each of your fears. It will help you tolerate the fact that we sometimes need to act when the course of 
+action isn’t clear and avoid the common anxiety trap whereby people try to reduce uncertainty to zero.
+
+Worrying can help you make better decisions if you do it effectively. Most people don’t . When you worry, it should be solutions-focused, not just perseverating on the presence of a threat. Direct your worry towards behaviors that will realistically reduce the chances of failure.
+
+We can control systems, not outcomes. What are your systems and processes for avoiding making mistakes? Direct your worries into answering questions like these: Is the data you’re relying on reliable? What are the limitations of it? How do your systems help prevent groupthink? What procedures do you have in place to help you see your blind spots? How do you ensure that you hear valuable perspectives from underrepresented stakeholders? What are your processes for being alerted to a problem quickly and rectifying it if a decision has unexpected consequences?
+
+When we’re scared of making a mistake, our thinking can narrow around that particular scenario. Imagine you’re out walking at night. You’re worried about tripping, so you keep looking down at your feet. Next thing you know you’ve walked into a lamp post. Or, imagine the person who is scared of flying. They drive everywhere, even though driving is objectively more dangerous. When you open the aperture, it can help you see your greatest fears in the broader context of all the other threats out there. This can help you get a better perspective on what you fear the most.
+
+It might seem illogical that you could reduce your fear of making a mistake by thinking about other negative outcomes. But this 
+strategy can help kick you into problem-solving mode and lessen the mental grip a particular fear has on you. A leader might be 
+so highly focused on minimizing or optimizing for one particular thing, they don’t realize that other people care most about something else. Find out what other people’s priorities are.
+
+Recognize the value of leisure.
+
+Fear grabs us. It makes it difficult to direct our attention away. This is how it is designed to work, so that we don’t ignore threats. Some people react to fear with extreme hypervigilance. They want to be on guard, at their command post, at all times. This might manifest as behavior like staying up all night to work.
+
+That type of adrenalin-fueled behavior can have short-term value, but it can also be myopic. A different approach can be more useful for bigger picture thinking. We need leisure (and sleep!) to step back, integrate the threads of our thinking, see blindspots, and think creatively. Get some silent time. Although much maligned, a game of golf might be exactly what you need to think about tough problems holistically.
+
+As mentioned, when people are fearful they can go into always-on monitoring mode. You may have the urge to constantly look at what everyone else is doing, to always be on social media, or check data too frequently. This can result in information overload. 
+Your mind can become so overwhelmed that you start to feel cloudy or shut down. Recognize if you’re doing this and limit over-monitoring or overchecking. Avoid panicked, frenzied behavior.
+
+On its own, being afraid of making mistakes doesn’t make you more or less likely to make good decisions. If you worry excessively in a way that focuses only on how bad the experience of stress and uncertainty feels, you might make do or say the wrong things. However, if you understand how anxiety works at a cognitive level, you can use it to motivate careful but bold and well-reasoned choices.
+Is there any evidence about whether fabric or bare hands would spread covid-19 more from one surface to another? (e.g. opening a door using a fabric glove). Assuming the fabric doesn’t touch your face, like bare hands easily do, even with efforts to remember not to people struggle to remember. I’ve been thinking of prompts to prevent face touching, such as wearing fabric gloves when out and about, but I don’t want to promote this unless the fabric is at-least-no-worse than hands for transferring the virus between surfaces.
+
+I’m talking about use in the community for instance when people have to travel or go to food shops, not in a healthcare context. The gloves should be changed between different settings (e.g. apartment block, bus, shop – switch to a new pair of gloves for each). The gloves should be ironed hot at the end of each day.
+
+As far as I can tell from my attempts searching, this is evidence-based, but I’m keen to know from someone who is better at interpreting evidence in this field if it is sensible.
+
+Use fabric gloves to avoid spreading of Coronavirus from outside every person going out for daily work touching every were using these gloves before entering the house remove the glove outside the home and clean hand with sanitizer to kill the virus. Use of this glove to wash with sanitizer and bowling in water about 60 to 70c is put outside the home for drying in night time morning these gloves are used. Any time you go outside and come back come do this is the better way to avoid spreading of Coronavirus.
+Well, the risk of conducting covid19 by using gloves or not the same but the gloves remember us not to touch our eyes, mouth, and nose so don’t get infection properly if you contact an infected patient, at that time wearing gloves become a must.
+Why is there a severe immunological and inflammatory explosion in those affected by arms covid-19? are these only genetic causes related to the immune response of il6 and macrophages, or would other types of scenarios be related to some environmental element?
+
+il-6 is a marker for macrophages, as an essential and pre-inflammatory marker, but my question is not directed at that already known factor, but what I am asking is the reason for such a brutal response by the immune system.
+
+For example, here in Spain one of the parallel treatments is the administration of corticosteroids and anti-inflammatory drugs. 
+
+And another of the most worrying markers in patients is the increase in ferritin, or that its values are out of range.
+
+The exacerbated response of the immune system, specifically il-6, which in addition to being pre-inflammatory, also has an anti-inflammatory function, depending on which synergies occur with its two types of receptors. R-il-6 and gp 130 this acts as an antagonist, these types of proteins are very typical in endothelial cells or in macrophages.
+
+But my question is why this so severe call of il-6 and il-1 by those affected by covid-19.
+
+Could it be that the virus’s nexus protein had some synergy with R-il-6 binding to it and in this case, it was acting as an agonist,? and to act, making a call effect. I don’t know.
+
+My question is directed more at him, why? of that abrupt and exaggerated call. And in such a short time.
+
+Could it have to do with the virus replication speed vs. slower activation speed of T and B lymphocytes?
+
+In innate immunity, Monocytes in this case macrophages are cells that present il-6 in their cell membranes, but such a large amount … of response.
+
+It is as if the immune response is more associated with cellular damage (DAMP). Why?
+
+Even soluble peptides like cathelicidins HDPs that react and are produced by cells of the epithelial tissue of the respiratory, 
+digestive system or the skin itself, which are pro- and anti-inflammatory. and they also act as chemoattraction agents, pro-apoptosis in the case of epithelial cells and anti-apoptotic in the case of neutrophils, they are one more barrier of the innate immune system, yes, but to such an extent of producing that inflammation so severe, and that cell death in such a short time?      
+What we can learn, is to have frequent updates to our pandemic simulations, then the simulation that shuts down the pandemic the quickest, institute immediately!
+
+The USA has known for two years, what the implications of the virus are going to be, because in 2018, the John Hopkins Center for Health Security ran a simulation called “Parainfluenza Clade X” to determine what the potential would be of a virus pandemic, 
+and they concluded: “…twenty months 150 million people worldwide–two percent of the global population–have died.”
+
+“…The global economy has collapsed under the strain, with the Dow Jones average down 90 percent. U.S. GDP down 50 percent, and unemployment at 20 percent. Washington is barely functioning–the president and vice president are both ill, one-third of Congress is dead or incapacitated.
+
+” People involved in that simulation were Tom Daschle (former leader of US Senate), Dr. Julie Gerberding (former head CDC), Jim 
+Talen (former Missouri senator)–Why are all of these people keeping quiet right now, and not telling us what they saw in the global virus pandemic simulation only two years ago, and helping lead us out of this mess, with some new simulations???!!!
+
+The most important lesson to learn is that you always need to keep a spare ventilator in your garage. Your local hospital might 
+run out just when you need one.
+What we can learn, is to have frequent updates to our pandemic simulations, then the simulation that shuts down the pandemic the quickest, institute immediately!
+
+The USA has known for two years, what the implications of the virus are going to be, because in 2018, the John Hopkins Center for Health Security ran a simulation called “Parainfluenza Clade X” to determine what the potential would be of a virus pandemic, 
+and they concluded: “…twenty months 150 million people worldwide–two percent of the global population–have died.”
+
+“…The global economy has collapsed under the strain, with the Dow Jones average down 90 percent. U.S. GDP down 50 percent, and unemployment at 20 percent. Washington is barely functioning–the president and vice president are both ill, one-third of Congress is dead or incapacitated.
+
+” People involved in that simulation were Tom Daschle (former leader of US Senate), Dr. Julie Gerberding (former head CDC), Jim 
+Talen (former Missouri senator)–Why are all of these people keeping quiet right now, and not telling us what they saw in the global virus pandemic simulation only two years ago, and helping lead us out of this mess, with some new simulations???!!!
+
+The most important lesson to learn is that you always need to keep a spare ventilator in your garage. Your local hospital might 
+run out just when you need one.
+
+(base) E:\Projects\BlackCoffer>C:/Users/HP/anaconda3/python.exe e:/Projects/BlackCoffer/scraper.py
+2022-09-11 00:50:52.619067: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic 
+library 'cudart64_110.dll'; dlerror: cudart64_110.dll not found
+2022-09-11 00:50:52.619638: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have 
+a GPU set up on your machine.
+C:\Users\HP\anaconda3\lib\site-packages\scipy\__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.3
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+When people hear AI they often think about sentient robots and magic boxes. AI today is much more mundane and simple—but that doesn’t mean it’s not powerful. Another misconception is that high-profile research projects can be applied directly to any business situation. AI done right can create an extreme return on investments (ROIs)—for instance through automation or precise prediction. But it does take thought, time, and proper implementation. We have seen that success and value generated by AI projects are increased when there is a grounded understanding and expectation of what the technology can deliver from the C-suite down.    
+
+“Artificial Intelligence (AI) is a science and a set of computational technologies that are inspired by—but typically operate quite differently from—the ways people use their nervous systems and bodies to sense, learn, reason and take action.”3 Lately there has been a big rise in the day-to-day use of machines powered by AI. These machines are wired using cross-disciplinary approaches based on mathematics, computer science, statistics, psychology, and more.4 Virtual assistants are becoming more common, most of the web shops predict your purchases, many companies make use of chatbots in their customer service and many companies use algorithms to detect fraud.
+
+AI and Deep Learning technology employed in office entry systems will bring proper time tracking of each employee. As this system tries to learn each person with an image processing technology whose data is feed forwarded to a deep learning model where Deep learning isn’t an algorithm per se, but rather a family of algorithms that implements deep networks (many layers). These networks are so deep that new methods of computation, such as graphics processing units (GPUs), are required to train them, in addition to clusters of compute nodes. So using deep learning we can take detect the employee using face and person recognition scan and through which login, logout timing is recorded. Using an AI system we can even identify each employee’s entry time, their working hours, non-working hours by tracking the movement of an employee in the office so that system can predict and report HR for the salary for each employee based on their working hours. Our system can take feed from CCTV to track movements of employees and this system is capable of recognizing a person even he/she is being masked as in this pandemic situation by taking their iris scan. With this system installed inside the office, the following are some of the benefits:
+
+For several countries, regulations insist that the employer must keep documents available that can demonstrate the working hours performed by each employee. In the event of control from the labor inspectorate or a dispute with an employee, the employer must be able to explain and justify the working hours for the company. This can be made easy as our system is tracking employee movements
+
+This is about monitoring user connection times to detect suspicious access times. In the event where compromised credentials are used to log on at 3 a.m. on a Saturday, a notification on this access could alert the IT team that an attack is possibly underway.
+
+To manage and react to employees’ attendance, overtime thresholds, productivity, and suspicious access times, our system records and stores detailed and interactive reporting on users’ connection times. These records allow you to better manage users’ connection times and provide accurate, detailed data required by management.
+
+4)If you want to avoid paying overtime, make sure that your employees respect certain working time quotas or even avoid suspicious access. Our system will alert the HR officer about each employee’s office in and out time so that they can accordingly take action.
+
+5)Last but not least it reduces human resource needs to keep track of the records and sending the report to HR and HR officials 
+has to check through the report so this system will reduce times and human resource needs
+
+With the use of AI and Deep Learning technologies, we can automate some routines stuff with more functionality which humans need more resources to keep track thereby reducing time spent on manual data entry works rather companies can think of making their 
+position high in the competitive world.
+With increasing computing power and more data, the potential value of algorithms became higher. People and companies saw possibilities to embed these smart systems into their companies to drive strategy and innovation. As the power of algorithms, computing, and amounts of data increased companies started to see an increasing amount of use cases. AI started to become an essential value. Companies saw that these systems could move them closer to their customers, drive efficiency, enhance employee experience and capability, automatize tasks, decrease costs and improve revenue. But AI went through some lulls and spikes before it became 
+capable of enabling so many benefits. At a certain point, the general public gave up on AI and machine learning as a whole, which stalled developments and investments.
+
+AI uses computer vision and deep learning to achieve these results. Computer vision incorporates neural networks that help computers detect objects within shelf images and classify them accurately.
+
+Deep learning is a new area that is moving machine learning closer to one of its original goals: AI. In deep learning, a computer system is fed a lot of data, which it then observes and analyzes to recognize emergent patterns and trends, ultimately generating appropriate recommendations and predictions.
+
+Deep learning applications, especially in the field of computer vision, are more than ready for prime time. Recently, a neural network architecture won the ImageNet challenge by classifying a wide variety of objects – like birds, ships, and cats – into the correct categories more accurately than humans did.
+
+Back at the store shelf, even subtle differences between objects, poor lighting, reflections, and background clutter can be overcome with these powerful AI applications.
+
+Our tool recognizes products among thousands of possible retail items and verifies their placement according to the given planogram. This translates into the automation o shelf management activities, centralized monitoring of shelf arrangement over hundreds of branches, and validation of the product, license agreement for suppliers.
+
+The use of ML-powered analytics solutions can help businesses forecast inventory demand with high accuracy. Systems that rely on machine learning are capable of analyzing a multitude of data points, finding subtle patterns (indicating changes in customer preferences, behavior, or satisfaction), which can be non-obvious to humans. What’s more, these systems don’t require explicit programming as machine learning models learn from data. The more data is fed to them, the better they handle it while deriving meaningful insights.
+
+Our system will automate manual tasks like gap and price scanning and free up your staff to help shoppers. It increases availability and provides real-time, accurate alerts to restock shelves faster than ever and increase on-shelf availability.it will transform the supply chain. Drive supply chain decisions with real-time shelf data to understand actual demand and avoid inaccurate 
+inventory management and comply with price and promotions. Automatically detect mismatches at the shelf and avoid customer frustration. Our system will harmonize online and offline channels. Optimize online order picking and reflect your real availability 
+to the shopper as they make their online order
+
+By this system, if it is implemented in a supermarket, where we can use this application to predict the market price and demand 
+and accordingly we can forecast the demand and take actions in prior and this system can also keep track of the expiry of each perishable products and alerts for them to change it accordingly at the correct time. If some new product is released in the market and that is with great demand, our system will try to analyze where it is placed in the store, If it is not present in the store our system will report to the sales manager to add these new products in the store at a much reachable and visible place for the buyers.
+If you were a fan of the 90’s film Clueless back in the day, then you’ll remember the protagonist, Cher Horowitz’s amazing virtual wardrobe. She used it to browse her clothing and choose a perfectly coordinated ensemble. This virtual application, which was just the brainchild of a writer wanting to make the protagonist look rich, fashionable, and ahead of her time, ignited a buzz and prospected having an automated style device to make everyday dress-up fun and engagingly time-saving.
+
+Times have changed and technological advancement today is transforming everything from probabilities to possibilities. We are in the era where, machines not just facilitate our tasks and demands but rather suggest, forecasts, and analyze thus making lives 
+simpler and smarter.
+
+With the advent of technology, style suggestions are just a fraction of the big picture that AI has painted in the fashion industry today.
+
+Artificial intelligence is the creation of computer programs capable of performing activities and solving issues that would normally need human intelligence. AI has surged across a variety of industries, with the potential to transform businesses through creative technologies and more effective operational processes.
+
+At first, AI automation did not appear to be an appealing tool for fashion leaders to use in an industry focused on creative ability and expression. However, as we enter the hyper-digital era, these apps have the potential to revolutionize enterprises and 
+generate considerable industry growth when compared to competitors that use traditional approaches.
+
+Some of the most well-known brands in the business are now investing in algorithms that assist buyers to choose designs. A slew 
+of AI-based start-ups is also assisting everyone from retailers to customers in removing the guesswork from the equation.       
+
+This article examines how artificial intelligence has impacted key areas of the fashion industry, as well as explores brands that have benefited from its use.
+
+Fashion firms are utilizing technology to better understand client wants and produce better garments thanks to more sophisticated data collection.
+
+Tommy Hilfiger pioneered the “Reimagine Retail” project, which trains fashion designers with AI design skills in collaboration with IBM. As a result, fashion students could master a variety of technical skills such as natural language processing (NLP) or computer vision. Fashion students could learn from thousands of fashion-related photos using AI, which increased their inventiveness and shortened lead times for the fashion firm.
+
+Fashion brands are now able to identify fast-changing fashion trends and get the latest fashion accessories to store shelves faster than the “traditional” fashion shop, thanks to AI and machine learning capabilities. As a result, prominent fashion brands such as Zara, Top Shop, and H&M can provide immediate gratification to retail customers by identifying seasonal trends and producing the appropriate quantity of the current items.
+
+AI in inventory and supply chain management helps to speed up processes by optimizing routes and lowering logistics and shipping costs. Companies use AI to automate logistics and supply chain procedures for speedier delivery or to locate alternate routes for vehicles that have been detoured due to unanticipated situations like bad weather or road construction.
+
+Owing to lockdown, major fashion firms had to rethink their go-to-market strategy overnight, with actual brick-and-mortar stores closed and people staying away from shopping malls. Myntra finds itself in a unique position to assist them.
+
+Myntra moved its whole data infrastructure, including supply chain management, inventory, and website capabilities, to Microsoft Azure just before the pandemic. Apart from giving Myntra the flexibility to respond to demand spikes, Azure’s built-in Machine 
+Learning technologies sped up the development of advanced analytics capabilities, allowing them to better understand their customers.
+
+In retail, AI and machine learning are also providing an automated solution to monitor customer activities while shopping and visualize their sentiments to learn what products they prefer to buy and what products they ignore.
+
+AI can also track traffic in retail stores or record consumer shopping experiences, with the option of receiving feedback on how their experience was while shopping at the store, allowing them to enhance their services.
+
+Uniqlo has AI-powered UMood kiosks that offer clients a selection of products and use neurotransmitters to assess their reaction to color and style. The kiosk then makes product recommendations based on each person’s reactions. Customers don’t even need to press a button for the system to know how they feel about each item; their brain signals are plenty.
+
+Furthermore, AI in fashion is enabling each of us to find those elusive perfect garments that suit our body types and fashion preferences.
+
+These AI-enabled garments and ensembles are personalized to the user’s style, body type, colors, and current fashion trends, as 
+well as different situations and weather.
+
+iLUK is an AI-based personal stylist that uses Computer Vision and 3D Reconstruction technology at its core to provide technology-based personal styling. It’s shaped like a pod that will be placed in a store.
+
+Similarly, a smart mirror driven by AI is being utilized by a company to streamline consumers’ shopping experiences by allowing 
+them to virtually visualize how items would appear on them without having to put them on their bodies.
+
+The AI smart mirror with touch screen glasses is mounted in the changing room of retail stores and relays information on whether or not a person is inside. Customers can also use this mirror to try on other sizes and colors, as well as receive tailored mix-and-match alternatives to complete the appearance.
+
+Van Heusen designed a storage space that includes a “Virtual Trial” mirror that allows customers to view how clothes might appear on them by scanning the item’s barcode and stepping in front of the mirror while virtual clothing is projected onto their reflection.
+
+In the same way that AI is revolutionizing retail fashion stores, AI is revolutionizing online purchasing and E-commerce. While 
+browsing or searching for fashion goods on e-commerce sites, AI suggests additional items that are similar to what you’re looking for based on your color preferences, budget, and other factors. It analyses your search history data and suggests more relevant stuff you should look at.
+
+Amazon has undoubtedly transformed the online shopping experience with its AI-powered product suggestion engine. Amazon is implementing an AI-enabled fashion designer algorithm that can create clothing by mimicking the design styles of several popular garments and applying them to a new garment. The Echo Look fashion assistant, which uses machine learning to deliver personalized recommendations, is Amazon’s other use case.
+
+AI in Visual Search — To Find the Products Using Camera
+
+AI-based visual search technology is now employed by E-commerce stores to comprehend the content and context of these photographs and produce a list of related results. You can capture an object using your camera and then search for it online. Retailers can use AI-enabled computer vision-based visual search technology to propose thematically or aesthetically relevant items to customers in a way that would be difficult to do with only a word query.
+
+Neiman Marcus, a high-end department store, employs artificial intelligence to make it easier for shoppers to locate things. The Snap. Find. Shop. the app allows users to photograph items they encounter while out and about, and then search Neiman Marcus’ inventory for the same or a comparable item.
+
+One of the most damaging businesses on the earth is the fashion industry. Artificial Intelligence can be used in conjunction with Machine Learning, Deep Learning, Natural Language Processing, Visual Recognition, and Data Analytics to reduce trend prediction errors and more precisely forecast patterns, leading to fewer garments being manufactured and subsequently underutilized.     
+
+The H&M Group is using “Amplified Intelligence,” which combines analytics and AI with human intelligence.
+
+Using artificially intelligent technologies, H&M is enhancing its ability to recognize trends and organize logistics, as well as minimizing the frequency of discounted deals and large amounts of unsold goods.
+
+Though intelligence per se is artificial, nevertheless is likely to have an earnest impact, both positive and negative:
+
+Apparel manufacture is a labor-intensive industry in the fashion industry. AI-enabled machines and robots can perfectly stitch fabrics while also detecting fabric flaws and providing quality assurance to ensure that the actual design hues will match the new colors.
+
+In nations like Bangladesh, where the garment industry accounts for 80% of the GDP, this will have a significant influence on the labor force in the long run. It is already feeling the heat from these specialized AI-based devices, thus jeopardizing the jobs of breadwinners.
+
+AI should not be viewed as a rival, but rather as a collaborator. The cost and ethics of AI are currently preventing us from progressing. We must be careful not to use technology to increase inequity or exacerbate social injustice. We also need to find a balance and integrate humanity into the machines we’re constructing in the future.
+
+“We are being monitored and classified by AI in portions of our lives that were not previously watched,” says Sophie Hackford, a futurist and keynote speaker. She wonders if we’ve built the “wrong” internet. We created it intending to monetize our viewers 
+in mind, rather than the dynamic knowledge-sharing area that Tim Berners-Lee envisioned at the start.” She believes that in the 
+future, we will be much more selective in how we obtain information, and that “bots” would be critical in meeting our requirements. As a result, the gains will come at the expense of our privacy.
+
+As numerous as AI’s advantages are, it is impossible to ignore the difficult issues it brings. With everything being data-driven, there is a pressing need to establish boundaries to build a shared ecosystem that benefits both businesses and the general public.
+
+Finding a wise balance between physical stores and online stores will continue to be a crucial issue in an industry where brick-and-mortar retail locations are still an important element of the sector’s approach to business.
+
+The usefulness of chatbots aimed at improving online and in-store product navigation shows significant promise for preserving customer attention and use in the near term. We expect consumers to become accustomed to these capabilities over time, and the field to become more competitive as AI becomes more broadly applied, as prominent brands set the tone with their usage of AI.      
+
+It’s too early to tell how these AI applications will affect earnings and cost savings because prominent fashion firms are still in the early stages of AI implementation. However, there will be a learning curve as corporations figure out how consumers react to these innovation efforts, which could have a direct influence on sales.
+The Financial Crisis of 2008 started as a crisis in the subprime mortgage market (i.e. in a market where lending of loans is done to people who may have difficulty in maintaining the repayment schedule or in simple terms, loans were given out to people without proper checks and low credit scores) which ultimately led onto a huge global collapse.
+
+The Financial Crisis of 2008 or Great Recession is considered the worst economic crisis since the Great Depression.
+
+In the year 1996, there was a dot-com boom (or otherwise known as the dot com bubble) in the United States, a period of massive 
+growth in the use of the internet because of which the stock market prices started increasing rapidly. However, around the year 
+2000, it dropped which led people and investors to withdraw their investments from the stock market rapidly. It led to the decline of the price of shares in stock markets and the interest rate plummeted to around 1% very quickly in a short span.
+
+Investors were now looking for a brighter option than investing in stock markets.
+
+Fig – Rise and fall of the Dot Com Bubble
+
+As interest rates went lower and lower, real estate prices started rising and the US Govt also encouraged people to buy houses and properties. The demand for the same started rising rapidly and investors now found a great option to invest in (i.e. in Real 
+Estate).
+
+During that same time, Investment Banks saw an opportunity, chimed in and started buying loans from Banks in bulk and clubbed multiple loans under a complex derivative called CDO (Collateralized Debt Obligations) and started providing it to these Investors after getting a credit rating of “AAA” (Very Safe Investment) from the Credit Rating Agencies. Investors naturally fell for it 
+and started buying these CDOs.
+
+So now, the risk factor of these loans got transferred from the Banks to the Investment Banks and then again to the CDO Investors.
+
+With the high buying demand of CDOs, Investment banks started demanding or pressurizing Banks to provide even more Loans so that they can provide more CDOs to the Investors. However, Banks had already provided loans to people with good credit history and regular income people. But in the hope of getting even more credit from Investment Banks, these same banks then started giving out subprime housing loans to people with low credit scores.
+
+Approximately $174Bn worth of loans were given out during the period 2000-2007 and most of them were clubbed as CDOs with a “AAA” rating from the Credit Rating Agencies. Approximately 70% of these CDO’s were marked with a “AAA” rating.
+
+Investment Banks and Credit Rating Agencies were now enjoying large profits during this time. Moody’s (a credit rating agency) profits increased 4x times during that period (2000-2007).
+
+Looking at the huge profits being made by the Investment Banks and Credit Rating Agencies, Insurance companies (like AIG) now started giving out insurance on these CDOs to the investors and they called it CDS (Credit Default Swap). AIG believed that since 
+the CDOs were rated as “AAA” (Very Safe Investment), the failure chances of these CDOs were very minimal. They misjudged or were unaware of the fact that some of the loans that were clubbed under these CDOs were Sub Prime loans.
+
+Now CDO Investors started buying out CDS from AIG and other companies to safeguard and protect them from any losses. AIG then started making huge profits because of the premiums that the investors had to pay. But they never realized the outcome if by any chance the CDOs fail at some point in time. Thus, the risk factor again got transferred from the CDO investors to the Insurance Companies.
+
+Fig – Flow Diagram showing how the Risk Factors got transferred
+
+Coming to the loan borrowers now, Sub Prime Borrowers from banks were unaware of the fact of Adjustable Rate Loans (interest rate of these loans keeps changing) and thus had to pay lower interests at the start but more interest rates later on.
+
+The borrowers started defaulting on these loans when the interest rates increased dramatically around 2007 and thus banks had to then resell those houses to make up for the loans defaulted. Added to the problem was the fact that borrowers were not spending any amount of money from their pockets while taking loans and banks were providing the full amount of loans. Almost 50% of the 
+borrowers did not pay anything from their own pocket and bought the home only using the housing loan.
+
+This led to a huge increase in the defaulters of borrowers and ultimately banks had to auction houses to gain credit back. With 
+the high-interest rates and no one to buy the auctioned houses, this ultimately caused a chain reaction and banks were no longer receiving credit. The prices of Real Estate started falling drastically and people with good credit scores who had earlier taken housing loans also started defaulting because the price of their houses/homes fell below the loan amount that they had taken earlier. Banks stopped receiving money and also because of this chain reaction, the value of CDOs ultimately came down to 0.     
+
+Some Investors went for huge losses and few Investment companies went bankrupt (ex – Lehman Brothers). Moreover, insurance companies had to pay back those investors who had taken insurance. As a result, some of the insurance companies also went bankrupt. AIG too almost lost about $100Bn in paying back the investors who had earlier insured their CDOs. However, the US Govt. finally decided to bail out AIG in order to save them from going bankrupt.
+
+CDOs and CDSs were not regulated during that time by the Federal Reserve and thus this whole situation ultimately led to credit 
+crunch (became very difficult to get loans) and the whole economy of the US underwent a crisis that led to a global impact all around the world. Unemployment increased manifold and many new businesses had to shut down. Global trades all around the world also saw a crisis and finally, Global Recession hit the World.
+
+Causes of the Crisis –
+• Improper screening of loan borrowers resulting in subprime loan borrowers which included even borrowers with no stable income.• Credit rating agencies rated all the CDOs highly and investors were purchasing without proper monitoring. the same goes for Insurance companies.
+• Lax regulation of CDOs and CDS’ by federal reserve banks.
+• The large size of interbank lending that compounded the crisis
+• The unemployment rate increased all over the US and the EU.
+
+Ways to Avoid Such Crisis in Future –
+• Regulations to prevent banks from growing too big and preventing systemic risks (addressing ‘Too Big to Fail’ problem)        
+• Borrowers must be made aware of rate adjustable loans
+• Credit rating agencies should not rate the CDOs without proper risk assessment.
+• Partnership with Fintech companies to develop robust alternative credit scoring models for people with less credit history.   
+• Strict regulation on CDOs and CDS’ by Federal Banks
+Gender diversity is an equal representation of all genders in workplaces. One of the most important sectors where there is under-representation of gender diversity is the technological industry. Gender diversity means you have an equal opportunity which is not limited by gender. But, the true reality is gender diversity is a far outcry in the world.
+
+Gender diversity isn’t a new topic but an old and global phenomenon and technology industry is not a stranger to it. Women are often underrepresented in the technology sector. To understand the gap, let’s look at some statistics.
+• The percentage of women employed across all job sectors in the US has grown to be 47%.
+• Out of 47%. 34% belong to the top 5 technology companies (Amazon, Apple, Facebook, Google, and Microsoft).
+• Women software engineer hires have only increased 2% over the last 20 years
+• 50% of women said they have experienced gender discrimination at work.
+• Only 37% of tech startups have at least one woman on the board of directors.
+• The ratio of men to women in engineering is 5:1.
+• 25.5% of Google’s leaders on a global scale are women.
+• Even in the tech conference organizations, there were fewer female keynote speakers than male speakers.
+• Eight percent to 17 percent of gay and transgender workers report being passed over for a job or fired because of their sexual orientation or gender identity.
+• Globally, women only earn 77 cents to the dollar when compared to men.
+• According to a McKinsey Global Institute report, if women were to play an identical role in labor markets to that of men, as much as $28 trillion, or 26%, could be added to the global annual GDP by 2025.
+• According to UNESCO, over 2.7 billion women are legally restricted from having the same choice of jobs as men. And women’s labor force participation rate is 48.5 % compared to a rate of 75% for men.
+
+After looking at these staggering numbers, we see how biased gender diversity is even in the technological sector.
+
+Need of the hour
+
+With rapid industrialization and education about the importance of rights, gender diversity is very important in today’s world. 
+Gender equality represents a society that has lesser violence and provides a safer world for everyone. It is also directly proportional to sustainable development and ensures human rights to everyone. As today’s markets are increasing along with customers’ preferences, to understand customer profiles and build products we need gender diversity in our organizations. Equal representation helps in a better decision-making process for a positive impact.
+
+Men and Women invest back into their families and having gender equality and diversity helps build values into families and households. Empowering individuals not only help themselves but also the economy of the nations. Gender equality and diversity should be built into organizations’ beliefs and values.
+
+Why is this happening?
+
+Perception: If we see the word “gender”, it is a socially constructed definition. And this definition changes as per different cultural norms. In a much broader term, our society is also not aware of the concept of binary and non-binary gender, which includes queer, Trans, and Intersex individuals as well. The socially acceptable thing is to have gender expressions as per our gender identity. So, when it comes to choosing their career, people tend to choose a job role that gives them higher social belongingness. E.g. We see more women(as compared to men) in nursing careers as it requires more feminine qualities.
+
+There are different versions of this perception: which we can see either in the society(in terms of socially assigned gender roles) or in the workplace(in the form of gender discrimination, stereotypical thinking, sexism, etc.). E.g. As per their assigned 
+roles in society, women are most likely to take care of their family and children, and this affects their income and career growth. The motherhood penalty is a term defined by sociologists which states about the inverse correlation between income level and the number of children, i.e. there is also an income difference between a mother and a non-mother employee. As per OECD data(2012), there is a 7% reduction in wages for women per child.
+
+Lack of economic opportunities: Even in the tech industry, women are paid less than men. As per ILO data(2019), on average women are paid 20% less than men worldwide.
+
+Even when it comes to promotion, men are preferred more. It is to be noted that the numbers are even worse when there is intersectionality involved. E.g., a transgender woman will be paid less than a white woman and so on. As per the National Centre for Transgender equality, one out of two transgender people faces adverse effects: including 23% were denied a promotion, 44% were passed over for a particular job position and 26% are fired from their workplace just because they are transgender.
+
+We can improve this scenario from the perspective of different stakeholders who are involved.
+
+Creating Tech awareness from School level: As per the HDR report( 2017), no. of boys pursuing STEM program is 97% higher than girls. One way to improve this is to introduce more strong role models to advocate for this issue. Minority gender communities should be aware of the multiple job opportunities and career growth available in this field. These job roles are not even gender-specific anymore. For developing countries like India, STEM scholarship programs can be introduced from the secondary education level.
+
+Address Bias/Stereotypes: It is to be noted that perceptions, stereotypes, and biases are not just something we learn in school 
+but our upbringing also creates these, the things we watch, listen, and read daily. So, it also becomes the duty of the society 
+to create a more inclusive environment. E.g. A more privileged person should fight for the fundamental right of the less empowered or less privileged person in society.
+
+There should be active encouragement from parents, teachers, and educators for students in STEM programs regardless of their gender identity.
+
+To promote gender diversity in the workplace, companies need to focus on three things:
+
+Generally, there is a lot of unconscious bias and prejudices when hiring women, trans, intersex, and queer individuals. There needs to be a diversity and inclusivity team in the HR itself that addresses these issues. A blind recruitment drive can be conducted where there is no need to mention gender in any of the documents.
+
+Having structured questions during the interview might help to remove any unconscious biases.
+
+Diversity sensitivity training: Workplace policies need to create a company image that hires everyone irrespective of their gender identity and can even keep it optional in all the job formalities and documents.
+
+Conducting proper sensitivity training to employees is essential as they need to use correct pronoun/gender-neutral language.   
+
+Not just sensitivity training, strong workplace policies need to be in place which deal with any form of harassment or gender discrimination.
+
+To create accountability and transparency in their process, companies can also share diversity and inclusivity company data.    
+• Have a mentorship program in the workplace that advocates for women, trans, intersex, and non-binary individuals as leaders and encourages role models within this community.
+• Need to promote diversity in the workplace via proper workplace policies and legal guidelines(e.g. conducting mandatory sensitization training for all employees or framing zero-tolerance policies.)
+
+Including proper maternity leaves, child care facilities, and flexibility of working hours/remote working arrangements can be helpful for minority gender in keeping their work-life balance.
+
+Develop support programs for these communities who are joining after maternity leave. It might be in terms of psychiatric or mentorship support.
+
+Increase Pay parities: It can be done in the following ways:
+• Create flexibility in job roles so that women can move on to higher positions.
+• Build an inclusive workplace that supports pay parity— no salary difference based on gender for the same job roles.
+• Create a transparent performance review process and ensure that there are no unconscious biases during the recruitment process.
+• Doing a pay review within the organization to check how much pay difference exists before making framing policies.
+
+Lastly, there needs to be proper government policies in place which provide a constitutional or legal framework starting from the basic education level. It may begin from increasing the gross enrollment rates of all students in schools (irrespective of their gender identity) for developing countries( like India) to have proper compensation policies in the workplace(as similar to what states like California, New York has adopted) to ensure pay parity.
+The Covid-19 crisis and its fallout including recession, layoffs, and uneven economic pain-as well as recent protests over police brutality and demands for racial justice, have presented many of us with challenges that we’ve not encountered before. The high-stakes and unfamiliar nature of these situations have left many people feeling fearful of missteps. No one can reduce mistakes to zero, but you can learn to harness your drive to prevent them and channel it into better decision making. Use these tips to 
+become a more effective worrier.
+
+Don’t be afraid or ashamed of your fear.
+
+Our culture glorifies fearlessness. The traditional image of a leader is one who is smart, tough, and unafraid. But fear, like any emotion, has an evolutionary purpose and upside. Your concern about making mistakes is there to remind you that we’re in a challenging situation. A cautious leader has value. This is especially true in times like these. So don’t get caught up in ruminating: “I shouldn’t be so fearful.”
+
+Don’t be ashamed or afraid of your fear of making mistakes and don’t interpret it as evidence that you’re an indecisive leader, 
+or not bold, not visionary. If you have a natural tendency to be prevention-focused, channel it to be bold and visionary! (If you struggle to believe this, identify leaders who have done just that by figuring out how to prevent disasters.)
+
+Fear of mistakes can paralyze people. Emotional agility skills are an antidote to this paralysis. This process starts with labeling your thoughts and feelings, such as “I feel anxious I’m not going to be able to control my customers enough to keep my staff safe.” Stating your fears out loud helps diffuse them. It’s like turning the light on in a dark room. Next comes accepting reality. For example, “I understand that people will not always behave in ideal ways.” List off every truth you need to accept. Then comes acting your values. Let’s say one of your highest values is conscientiousness. How might that value apply in this situation? For example, it might involve making sure your employees all have masks that fit them well or feel comfortable airing any grievances they have. Identify your five most important values related to decision-making in a crisis. Then ask yourself how each 
+of those is relevant to the important choices you face.
+
+Repeat this process for each of your fears. It will help you tolerate the fact that we sometimes need to act when the course of 
+action isn’t clear and avoid the common anxiety trap whereby people try to reduce uncertainty to zero.
+
+Worrying can help you make better decisions if you do it effectively. Most people don’t . When you worry, it should be solutions-focused, not just perseverating on the presence of a threat. Direct your worry towards behaviors that will realistically reduce the chances of failure.
+
+We can control systems, not outcomes. What are your systems and processes for avoiding making mistakes? Direct your worries into answering questions like these: Is the data you’re relying on reliable? What are the limitations of it? How do your systems help prevent groupthink? What procedures do you have in place to help you see your blind spots? How do you ensure that you hear valuable perspectives from underrepresented stakeholders? What are your processes for being alerted to a problem quickly and rectifying it if a decision has unexpected consequences?
+
+When we’re scared of making a mistake, our thinking can narrow around that particular scenario. Imagine you’re out walking at night. You’re worried about tripping, so you keep looking down at your feet. Next thing you know you’ve walked into a lamp post. Or, imagine the person who is scared of flying. They drive everywhere, even though driving is objectively more dangerous. When you open the aperture, it can help you see your greatest fears in the broader context of all the other threats out there. This can help you get a better perspective on what you fear the most.
+
+It might seem illogical that you could reduce your fear of making a mistake by thinking about other negative outcomes. But this 
+strategy can help kick you into problem-solving mode and lessen the mental grip a particular fear has on you. A leader might be 
+so highly focused on minimizing or optimizing for one particular thing, they don’t realize that other people care most about something else. Find out what other people’s priorities are.
+
+Recognize the value of leisure.
+
+Fear grabs us. It makes it difficult to direct our attention away. This is how it is designed to work, so that we don’t ignore threats. Some people react to fear with extreme hypervigilance. They want to be on guard, at their command post, at all times. This might manifest as behavior like staying up all night to work.
+
+That type of adrenalin-fueled behavior can have short-term value, but it can also be myopic. A different approach can be more useful for bigger picture thinking. We need leisure (and sleep!) to step back, integrate the threads of our thinking, see blindspots, and think creatively. Get some silent time. Although much maligned, a game of golf might be exactly what you need to think about tough problems holistically.
+
+As mentioned, when people are fearful they can go into always-on monitoring mode. You may have the urge to constantly look at what everyone else is doing, to always be on social media, or check data too frequently. This can result in information overload. 
+Your mind can become so overwhelmed that you start to feel cloudy or shut down. Recognize if you’re doing this and limit over-monitoring or overchecking. Avoid panicked, frenzied behavior.
+
+On its own, being afraid of making mistakes doesn’t make you more or less likely to make good decisions. If you worry excessively in a way that focuses only on how bad the experience of stress and uncertainty feels, you might make do or say the wrong things. However, if you understand how anxiety works at a cognitive level, you can use it to motivate careful but bold and well-reasoned choices.
+Is there any evidence about whether fabric or bare hands would spread covid-19 more from one surface to another? (e.g. opening a door using a fabric glove). Assuming the fabric doesn’t touch your face, like bare hands easily do, even with efforts to remember not to people struggle to remember. I’ve been thinking of prompts to prevent face touching, such as wearing fabric gloves when out and about, but I don’t want to promote this unless the fabric is at-least-no-worse than hands for transferring the virus between surfaces.
+
+I’m talking about use in the community for instance when people have to travel or go to food shops, not in a healthcare context. The gloves should be changed between different settings (e.g. apartment block, bus, shop – switch to a new pair of gloves for each). The gloves should be ironed hot at the end of each day.
+
+As far as I can tell from my attempts searching, this is evidence-based, but I’m keen to know from someone who is better at interpreting evidence in this field if it is sensible.
+
+Use fabric gloves to avoid spreading of Coronavirus from outside every person going out for daily work touching every were using these gloves before entering the house remove the glove outside the home and clean hand with sanitizer to kill the virus. Use of this glove to wash with sanitizer and bowling in water about 60 to 70c is put outside the home for drying in night time morning these gloves are used. Any time you go outside and come back come do this is the better way to avoid spreading of Coronavirus.
+Well, the risk of conducting covid19 by using gloves or not the same but the gloves remember us not to touch our eyes, mouth, and nose so don’t get infection properly if you contact an infected patient, at that time wearing gloves become a must.
+Why is there a severe immunological and inflammatory explosion in those affected by arms covid-19? are these only genetic causes related to the immune response of il6 and macrophages, or would other types of scenarios be related to some environmental element?
+
+il-6 is a marker for macrophages, as an essential and pre-inflammatory marker, but my question is not directed at that already known factor, but what I am asking is the reason for such a brutal response by the immune system.
+
+For example, here in Spain one of the parallel treatments is the administration of corticosteroids and anti-inflammatory drugs. 
+
+And another of the most worrying markers in patients is the increase in ferritin, or that its values are out of range.
+
+The exacerbated response of the immune system, specifically il-6, which in addition to being pre-inflammatory, also has an anti-inflammatory function, depending on which synergies occur with its two types of receptors. R-il-6 and gp 130 this acts as an antagonist, these types of proteins are very typical in endothelial cells or in macrophages.
+
+But my question is why this so severe call of il-6 and il-1 by those affected by covid-19.
+
+Could it be that the virus’s nexus protein had some synergy with R-il-6 binding to it and in this case, it was acting as an agonist,? and to act, making a call effect. I don’t know.
+
+My question is directed more at him, why? of that abrupt and exaggerated call. And in such a short time.
+
+Could it have to do with the virus replication speed vs. slower activation speed of T and B lymphocytes?
+
+In innate immunity, Monocytes in this case macrophages are cells that present il-6 in their cell membranes, but such a large amount … of response.
+
+It is as if the immune response is more associated with cellular damage (DAMP). Why?
+
+Even soluble peptides like cathelicidins HDPs that react and are produced by cells of the epithelial tissue of the respiratory, 
+digestive system or the skin itself, which are pro- and anti-inflammatory. and they also act as chemoattraction agents, pro-apoptosis in the case of epithelial cells and anti-apoptotic in the case of neutrophils, they are one more barrier of the innate immune system, yes, but to such an extent of producing that inflammation so severe, and that cell death in such a short time?      
+What we can learn, is to have frequent updates to our pandemic simulations, then the simulation that shuts down the pandemic the quickest, institute immediately!
+
+The USA has known for two years, what the implications of the virus are going to be, because in 2018, the John Hopkins Center for Health Security ran a simulation called “Parainfluenza Clade X” to determine what the potential would be of a virus pandemic, 
+and they concluded: “…twenty months 150 million people worldwide–two percent of the global population–have died.”
+
+“…The global economy has collapsed under the strain, with the Dow Jones average down 90 percent. U.S. GDP down 50 percent, and unemployment at 20 percent. Washington is barely functioning–the president and vice president are both ill, one-third of Congress is dead or incapacitated.
+
+” People involved in that simulation were Tom Daschle (former leader of US Senate), Dr. Julie Gerberding (former head CDC), Jim 
+Talen (former Missouri senator)–Why are all of these people keeping quiet right now, and not telling us what they saw in the global virus pandemic simulation only two years ago, and helping lead us out of this mess, with some new simulations???!!!
+
+The most important lesson to learn is that you always need to keep a spare ventilator in your garage. Your local hospital might 
+run out just when you need one.
