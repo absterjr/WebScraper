@@ -1,8 +1,8 @@
 
-```markdown
 # Web Scraper
 
-This is a Python script called "scraper.py" that performs web scraping and text processing tasks using various libraries. The script extracts text from a list of URLs, cleans the text, and outputs the cleaned text to a file.
+This is a Python script called "scraper.py" that performs web scraping and text processing tasks using various libraries.
+The script extracts text from a list of URLs, cleans the text, and outputs the cleaned text to a file.
 
 ## Getting Started
 
